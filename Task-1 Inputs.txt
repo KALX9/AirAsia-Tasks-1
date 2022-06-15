@@ -1,0 +1,4 @@
+----------------------
+Server name is: TES\SQLServer
+Database name is: test_database
+Table name is: products
